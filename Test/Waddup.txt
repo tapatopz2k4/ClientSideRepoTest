@@ -1,1 +1,2 @@
-test file bro
+test file bro.
+Added changes to the file
